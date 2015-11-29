@@ -1,3 +1,3 @@
 <?
-echo "Nova funcionalidade 2";
+echo "Nova funcionalidade 2!";
 ?>
