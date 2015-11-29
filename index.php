@@ -1,3 +1,3 @@
 <?
-echo "Começando um novo projeto!@";
+echo "Começando um novo projeto!@!";
 ?>
