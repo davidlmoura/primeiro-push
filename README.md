@@ -23,3 +23,8 @@ Projeto 1 da Code Education
 * Dei um rebase no funcionalidade1 e funcionalidade2 (branchs) para o master;
 * Dei um PUSH nos dois branchs para enviá-los ao repositório do GitHub também e o trabalhinho ficar todo lá;
 * Editei o README colocando esse texto.
+-------------------
+* Criei uma tag 0.1.0;
+* Alterei o arquivo index.php e commitei;
+* Alterei o README e commitei;
+* Criei nova tag 0.1.1.
