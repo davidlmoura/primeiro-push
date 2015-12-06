@@ -1,3 +1,3 @@
 <?
-echo "Começando um novo projeto!@!";
+echo "Testando as Tags!@!";
 ?>
